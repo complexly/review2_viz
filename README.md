@@ -1,4 +1,4 @@
-# Review session 2: Visualization @ Tools of Economic Complexity Analysis
+# Review Session 2: Visualization @ Tools of Economic Complexity Analysis
 
 The lab session contains three parts of materials and exercises in the Google Colab environment:
 
