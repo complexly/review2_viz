@@ -52,7 +52,7 @@ def format_js_value(thing):
 
 class D3PlusViz(object):
 
-    JS_LIBS = ["http://www.d3plus.org/js/d3.js", "http://www.d3plus.org/js/d3plus.js"]
+    JS_LIBS = ["https://cdn.jsdelivr.net/npm/d3", "https://cdn.jsdelivr.net/npm/d3plus@1.9.8/d3plus.full.min.js"]
 
     def generate_container_id(self):
         return "d3plus_div_{id}".format(id=random.randint(0, 100000))
