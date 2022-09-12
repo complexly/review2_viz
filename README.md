@@ -1,6 +1,6 @@
-# Review Session 2: Visualization @ Tools of Economic Complexity Analysis
+# Session 2: Visualization @ Tools of Economic Complexity Analysis
 
-The lab session contains an introduction [slides](https://docs.google.com/presentation/d/1URZammv5GSz4Ox8O_7UEcLpexjRsqYu9/edit?usp=sharing&ouid=103090252117033866349&rtpof=true&sd=true) and three parts of materials and exercises in the Google Colab environment:
+The lab session contains an introduction [slides](https://docs.google.com/presentation/d/1URZammv5GSz4Ox8O_7UEcLpexjRsqYu9) and three parts of materials and exercises in the Google Colab environment:
 
 1. Visualization with network+community: [tutorial](https://colab.research.google.com/drive/1fOJy5VK7MKSk0WDCrMCKhXVuh5PIEkXj)  
 Alternative choice: visualization with UMAP+clustering: [tutorial](https://colab.research.google.com/drive/1TCxyDt2WHRx8TEBolqRFPCGFWlXIFsFk)
