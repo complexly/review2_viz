@@ -8,3 +8,5 @@ Alternative choice: visualization with UMAP+clustering: [tutorial](https://colab
 3. Visualization with maps: [tutorial](https://colab.research.google.com/drive/10OQGFzGh1mQdrv_z7M9-8z8gr3uN0v-p)
 
 For basic visualization with matplotlib/seaborn/bokeh/plotly/etc. in python, you could learn through this [tutorial](https://colab.research.google.com/notebooks/charts.ipynb) by yourself.
+
+R user could use this [tutorial](https://github.com/complexly/review3_api313m) and create similar visualizations.
